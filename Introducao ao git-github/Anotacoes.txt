@@ -1,0 +1,4 @@
+Link para o download do git
+https://git-scm.com/downloads
+
+gitbash é um terminal extendido para otimizar o uso do git
